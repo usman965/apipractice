@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/apipractice/static/css/main.5fd3b379.chunk.css",
+    "main.js": "/apipractice/static/js/main.fb576737.chunk.js",
+    "main.js.map": "/apipractice/static/js/main.fb576737.chunk.js.map",
+    "runtime-main.js": "/apipractice/static/js/runtime-main.f8609211.js",
+    "runtime-main.js.map": "/apipractice/static/js/runtime-main.f8609211.js.map",
+    "static/js/2.497cc4d5.chunk.js": "/apipractice/static/js/2.497cc4d5.chunk.js",
+    "static/js/2.497cc4d5.chunk.js.map": "/apipractice/static/js/2.497cc4d5.chunk.js.map",
+    "index.html": "/apipractice/index.html",
+    "static/css/main.5fd3b379.chunk.css.map": "/apipractice/static/css/main.5fd3b379.chunk.css.map",
+    "static/js/2.497cc4d5.chunk.js.LICENSE.txt": "/apipractice/static/js/2.497cc4d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f8609211.js",
+    "static/js/2.497cc4d5.chunk.js",
+    "static/css/main.5fd3b379.chunk.css",
+    "static/js/main.fb576737.chunk.js"
+  ]
+}
