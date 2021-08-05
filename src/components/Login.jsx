@@ -43,6 +43,8 @@ export default function LogIn() {
   }
 
   return (
+    <>
+    <h1>login</h1>
       <Card variant="elevation" className="login">
           <Typography variant="h6">
               LogIn
@@ -85,6 +87,7 @@ export default function LogIn() {
   Submit</Button>
     </form>
     </Card>
+    </>
   );
 }
 
