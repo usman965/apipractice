@@ -16,7 +16,7 @@ import Appbar from './Appbar';
 import { useDispatch, useSelector } from 'react-redux';
 import { addContacts, deleteContact, deleteContacts } from '../redux/features/contacts';
 import { Link, useHistory } from 'react-router-dom';
-import { Button,TablePagination } from '@material-ui/core';
+import { Button,TablePagination } from '@material-ui/core'
 
 const Home = () => {
 const [page,setPage]=useState(0);
